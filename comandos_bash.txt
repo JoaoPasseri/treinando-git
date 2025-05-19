@@ -1,0 +1,2 @@
+ls -> lista arquivos na pasta
+pwd -> mostra em qual diretório estou
