@@ -1,2 +1,3 @@
 ls -> lista arquivos na pasta
 pwd -> mostra em qual diretório estou
+rm -> remove arquivo ou diretório
