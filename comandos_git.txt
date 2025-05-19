@@ -3,3 +3,5 @@ git status -> mostra o status do trabalho (de cada arquivo)
 git add nome_arquio -> adiciona arquivo para ser comitado
 git commit - m "<comentariomensage aqui>" faz commit do que estava para ser comitado
 
+
+fodase
