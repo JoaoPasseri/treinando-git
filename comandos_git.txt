@@ -1,7 +1,12 @@
-git init .-> cria um repo git a past atual
+git init .-> cria um repo git na pasta atual
 git status -> mostra o status do trabalho (de cada arquivo)
-git add nome_arquio -> adiciona arquivo para ser comitado
+git add nome_arquio -> adiciona arquivo para ser comitado (adiciona na área de stage)
+git add . -> Adiciona TODAS as alterações para serem commitadas (etapa de "preparo")
 git commit - m "<comentariomensage aqui>" faz commit do que estava para ser comitado
 
 
-fodase
+Processo Push (enviar para repositório GitHub)
+1 - git status
+2 - git add .
+3 - git commit -m "feature: Adiciona funcionalidade X"
+4 - git push origin main
